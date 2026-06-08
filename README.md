@@ -70,3 +70,6 @@ A curated list of awesome data labeling tools
 
 * [Label Studio](https://github.com/heartexlabs/label-studio) - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
+## AI Agent Tooling
+
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for AI agents on Solana. Verify labeling agent wallet identity before automated annotation task assignments. Free MCP endpoint: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
